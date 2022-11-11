@@ -1,6 +1,6 @@
 # Simple Web Browser
 
-This repository contains a simple web browser created using Windows Forms App.
+This repository contains the codes fo a simple web browser created using Windows Forms App.
 
 The browser displays HTML codes with the following features:
 
